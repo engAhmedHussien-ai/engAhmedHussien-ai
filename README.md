@@ -1,16 +1,65 @@
-## Hi there 👋
+# Ahmed Mohamed Hussien 👋
 
-<!--
-**engAhmedHussien-ai/engAhmedHussien-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Electrical Engineer transitioning into **Data Analysis & Automation**, with a strong engineering background and real-world problem-solving mindset.
 
-Here are some ideas to get you started:
+I focus on turning raw, messy data into **clear insights, reports, and automated workflows** that support business and operational decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 What I Do
+- Clean, analyze, and structure real-world datasets  
+- Build data pipelines using Python and SQL  
+- Create clear KPIs, reports, and visualizations  
+- Apply engineering thinking to data-driven problems  
+
+---
+
+## 🛠 Tools & Technologies
+- **Python**: pandas, numpy, matplotlib  
+- **SQL**: data querying & aggregation  
+- **Excel**: advanced formulas, pivots, reporting  
+- **Data Analysis**: cleaning, EDA, KPI definition  
+- **Automation**: Python scripts for reporting & workflows  
+
+---
+
+## 📂 Featured Projects
+This GitHub showcases hands-on projects focused on **business and operational data problems**, including:
+- Data cleaning & exploratory analysis  
+- SQL-to-Python data pipelines  
+- Dashboards and performance metrics  
+- Simple predictive models with clear assumptions  
+
+Each project includes:
+- Problem definition  
+- Dataset explanation  
+- Approach & methodology  
+- Results and business insights  
+
+---
+
+## 💡 Background
+With over 20 years of experience in engineering, construction, and systems design, I bring:
+- Strong analytical thinking  
+- Structured problem-solving  
+- Attention to real-world constraints  
+- Clear technical documentation  
+
+I’m now applying these skills to **data-driven roles and remote opportunities**.
+
+---
+
+## 🌍 Availability
+- Open to **remote roles** (Data Analyst / Junior Data Scientist / Automation Analyst)
+- Open to **contract & freelance work**
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/engAhmedHussien-ai
+- LinkedIn: *(add your LinkedIn here)*
+- Email: *(optional)*
+
+---
+
+⭐ If you're looking for someone who combines **engineering discipline with data analysis**, feel free to connect.
