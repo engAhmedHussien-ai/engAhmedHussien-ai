@@ -39,7 +39,7 @@ Each project includes:
 ---
 
 ## 💡 Background
-With over 20 years of experience in engineering, construction, and systems design, I bring:
+With over 20 years of experience in engineering, and systems design, I bring:
 - Strong analytical thinking  
 - Structured problem-solving  
 - Attention to real-world constraints  
