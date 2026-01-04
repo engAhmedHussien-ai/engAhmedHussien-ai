@@ -57,8 +57,7 @@ I’m now applying these skills to **data-driven roles and remote opportunities*
 
 ## 📫 Contact
 - GitHub: https://github.com/engAhmedHussien-ai
-- LinkedIn: *(add your LinkedIn here)*
-- Email: *(optional)*
+- Email: engahmedhussien@icloud.com
 
 ---
 
