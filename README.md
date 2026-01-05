@@ -1,64 +1,9 @@
 # Ahmed Mohamed Hussien 👋
 
-Senior Electrical Engineer transitioning into **Data Analysis & Automation**, with a strong engineering background and real-world problem-solving mindset.
+Engineering Data Analyst specializing in industrial systems and time-series analytics.
+Focus on Python-based analysis of sensor and operational data for anomaly detection,
+condition monitoring, and reliability insights.
 
-I focus on turning raw, messy data into **clear insights, reports, and automated workflows** that support business and operational decisions.
-
----
-
-## 🔍 What I Do
-- Clean, analyze, and structure real-world datasets  
-- Build data pipelines using Python and SQL  
-- Create clear KPIs, reports, and visualizations  
-- Apply engineering thinking to data-driven problems  
-
----
-
-## 🛠 Tools & Technologies
-- **Python**: pandas, numpy, matplotlib  
-- **SQL**: data querying & aggregation  
-- **Excel**: advanced formulas, pivots, reporting  
-- **Data Analysis**: cleaning, EDA, KPI definition  
-- **Automation**: Python scripts for reporting & workflows  
-
----
-
-## 📂 Featured Projects
-This GitHub showcases hands-on projects focused on **business and operational data problems**, including:
-- Data cleaning & exploratory analysis  
-- SQL-to-Python data pipelines  
-- Dashboards and performance metrics  
-- Simple predictive models with clear assumptions  
-
-Each project includes:
-- Problem definition  
-- Dataset explanation  
-- Approach & methodology  
-- Results and business insights  
-
----
-
-## 💡 Background
-With over 20 years of experience in engineering, and systems design, I bring:
-- Strong analytical thinking  
-- Structured problem-solving  
-- Attention to real-world constraints  
-- Clear technical documentation  
-
-I’m now applying these skills to **data-driven roles and remote opportunities**.
-
----
-
-## 🌍 Availability
-- Open to **remote roles** (Data Analyst / Junior Data Scientist / Automation Analyst)
-- Open to **contract & freelance work**
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/engAhmedHussien-ai
-- Email: engahmedhussien@icloud.com
-
----
-
-⭐ If you're looking for someone who combines **engineering discipline with data analysis**, feel free to connect.
+This repository demonstrates my work as an Engineering Data Analyst applying Python-based time-series analysis to industrial systems. 
+The focus is on analyzing sensor and operational data (current, temperature, vibration, load) to detect abnormal behavior using transparent statistical methods.
+The project emphasizes engineering interpretation, condition monitoring, and actionable insights rather than black-box models, reflecting real-world industrial and reliability use cases.
