@@ -1,11 +1,39 @@
-# Ahmed Mohamed Hussien 👋
+## Ahmed Hussien — Engineering Data Analyst
 
 Engineering Data Analyst specializing in industrial systems and time-series analytics.
-Focus on Python-based analysis of sensor and operational data for anomaly detection,
-condition monitoring, and reliability insights.
+I apply Python-based data analysis to sensor and operational data to detect anomalies,
+support condition monitoring, and deliver actionable engineering insights.
 
-This repository demonstrates my work as an Engineering Data Analyst applying Python-based time-series analysis to industrial systems. 
-The focus is on analyzing sensor and operational data (current, temperature, vibration, load) to detect abnormal behavior using transparent statistical methods.
-The project emphasizes engineering interpretation, condition monitoring, and actionable insights rather than black-box models, reflecting real-world industrial and reliability use cases.
+### Focus Areas
+- Industrial & operational data analysis
+- Time-series analytics
+- Anomaly detection & condition monitoring
+- Engineering interpretation of data
+- Reliability and performance analysis
 
-Python-based industrial time-series analysis project focused on anomaly detection and condition monitoring with engineering interpretation.
+### Tools & Technologies
+- Python (Pandas, NumPy)
+- Time-series analysis
+- Statistical analysis
+- Data visualization (Matplotlib)
+- Jupyter Notebooks
+- SQL (basic)
+
+### Featured Project
+**Industrial Sensor Data Analysis & Anomaly Detection**
+
+A practical analytics project analyzing industrial time-series data
+(current, temperature, vibration, load) to detect abnormal operating
+conditions using transparent statistical methods.
+
+➡️ View project repository below.
+
+### Work Preference
+- Remote
+- Contract / Freelance
+- Project-based analytics work
+
+---
+
+📫 Contact  
+Email: Eng.ahmed.hussien@hotmail.com  
